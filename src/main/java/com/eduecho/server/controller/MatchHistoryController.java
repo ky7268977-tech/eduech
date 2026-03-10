@@ -2,7 +2,6 @@ package com.eduecho.server.controller;
 
 import com.eduecho.server.dto.MatchHistoryDTO;
 import com.eduecho.server.dto.MatchHistoryFullDTO;
-import com.eduecho.server.model.MatchHistory;
 import com.eduecho.server.service.MatchHistoryService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
